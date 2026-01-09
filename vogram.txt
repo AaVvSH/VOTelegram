@@ -1,3 +1,3 @@
-versionName=10.0
+versionName=11.0
 webpageUrl=https://t.me/VO_SH
-dialogTitle=RCGram v10.0
+dialogTitle=RCGram v11.0
