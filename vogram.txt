@@ -1,4 +1,4 @@
-versionName=12.0
+versionName=11.0
 webpageUrl=https://t.me/VO_SH
 
-dialogTitle=VOGram v12.0
+dialogTitle=VOGram v11.0
