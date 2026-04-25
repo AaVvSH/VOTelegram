@@ -1,4 +1,4 @@
 versionName=12.6
-webpageUrl=https://t.me/VO_SH
+webpageUrl=https://t.me/VO_SH/1263
 
 dialogTitle=VOGram v12.6
