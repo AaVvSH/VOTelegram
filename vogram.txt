@@ -1,4 +1,4 @@
-versionName=12.8
+versionName=12.7
 webpageUrl=https://youtu.be/fg0QaWuf1lc
 
-dialogTitle=VOGram v12.8
+dialogTitle=VOGram v12.7
