@@ -1,4 +1,4 @@
-versionName=12.6
-webpageUrl=https://t.me/VO_SH/1263
+versionName=12.8
+webpageUrl=https://youtu.be/fg0QaWuf1lc
 
-dialogTitle=VOGram v12.6
+dialogTitle=VOGram v12.8
