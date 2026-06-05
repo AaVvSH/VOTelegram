@@ -1,5 +1,5 @@
 {
   "versionName": "12.7.3",
-  "webpageUrl": "https://t.me/vowhatsApp/487",
+  "webpageUrl": "https://t.me/VO_SH/1354",
   "dialogTitle": "RCGram v12.7.3"
 }
